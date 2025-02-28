@@ -5,14 +5,16 @@ It is specifically tailored to Vim keybindings, so it is suitable for developmen
 
 All layer management is handled through the thumb keys.
 
-## Layer 0
+For more information on QMK, please see their docs (https://docs.qmk.fm/). To customize this layout, the easiest way is to upload the json file to the QMK Configurator (https://config.qmk.fm/)
+
+## Layer 0 (QWERTY, CTRL, ALT, Shift, ESC, Space, Enter, Backspace)
 ![Screenshot From 2025-02-27 20-10-18](https://github.com/user-attachments/assets/9e6a61eb-46df-40a0-9833-aeb034621c59)
 
-## Layer 1
+## Layer 1 (Mouse Management)
 ![Screenshot From 2025-02-27 20-10-32](https://github.com/user-attachments/assets/da69c061-e579-4636-826f-bdf2ea07760b)
 
-## Layer 2
+## Layer 2 (Window Management)
 ![Screenshot From 2025-02-27 20-10-46](https://github.com/user-attachments/assets/9ae0ee3b-1465-44ae-8352-2be5f758cc63)
 
-## Layer 3
+## Layer 3 (Numbers, Symbols)
 ![Screenshot From 2025-02-27 20-11-03](https://github.com/user-attachments/assets/a638b7ce-5903-40fd-a81f-af35862cea16)
