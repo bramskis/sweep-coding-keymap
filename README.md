@@ -1,5 +1,9 @@
 # Ferris Sweep Keymap for Coding
-This is a valid QMK keymap and hex file for software development using a Ferris Sweep (https://github.com/davidphilipbarr/Sweep). It is specifically tailored to Vim keybindings, so it is suitable for development in Vim and Nvim. It utilizes four layers that handle QWERTY, numbers & symbols, window management (with space to expand), and mouse management (with space to expand). All layer management is handled through the thumb keys.
+This is a valid QMK keymap and hex file for software development using a Ferris Sweep (https://github.com/davidphilipbarr/Sweep).
+
+It is specifically tailored to Vim keybindings, so it is suitable for development in Vim and Nvim. It utilizes four layers that handle QWERTY, numbers & symbols, window management (with space to expand), and mouse management (with space to expand).
+
+All layer management is handled through the thumb keys.
 
 ## Layer 0
 ![Screenshot From 2025-02-27 20-10-18](https://github.com/user-attachments/assets/9e6a61eb-46df-40a0-9833-aeb034621c59)
