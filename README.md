@@ -17,4 +17,5 @@ For more information on QMK, please see their docs (https://docs.qmk.fm/). To cu
 ![Screenshot From 2025-02-27 20-10-46](https://github.com/user-attachments/assets/9ae0ee3b-1465-44ae-8352-2be5f758cc63)
 
 ## Layer 3 (Numbers, Symbols)
-![Screenshot From 2025-02-27 20-11-03](https://github.com/user-attachments/assets/a638b7ce-5903-40fd-a81f-af35862cea16)
+![Screenshot From 2025-02-28 20-49-18](https://github.com/user-attachments/assets/dcc1a67d-1289-432f-8883-cc8391ad5e75)
+
