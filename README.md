@@ -8,13 +8,13 @@ All layer management is handled through the thumb keys.
 For more information on QMK, please see their docs (https://docs.qmk.fm/). To customize this layout, the easiest way is to upload the json file to the QMK Configurator (https://config.qmk.fm/)
 
 ## Layer 0 (QWERTY, CTRL, ALT, Shift, ESC, Space, Enter, Backspace)
-![Screenshot From 2025-02-27 20-10-18](https://github.com/user-attachments/assets/9e6a61eb-46df-40a0-9833-aeb034621c59)
+<img width="632" height="282" alt="layer0" src="https://github.com/user-attachments/assets/2096569f-0c54-4ad8-ac9b-d852f100daba" />
 
 ## Layer 1 (Mouse Management)
-![Screenshot From 2025-02-27 20-10-32](https://github.com/user-attachments/assets/da69c061-e579-4636-826f-bdf2ea07760b)
+<img width="634" height="282" alt="layer1" src="https://github.com/user-attachments/assets/e4401df8-6d53-461e-b322-efa07f4accfb" />
 
-## Layer 2 (Window Management)
-![Screenshot From 2025-02-27 20-10-46](https://github.com/user-attachments/assets/9ae0ee3b-1465-44ae-8352-2be5f758cc63)
+## Layer 2 (Window Management, Some Symbols)
+<img width="636" height="285" alt="layer2" src="https://github.com/user-attachments/assets/c8221159-9015-47d3-b0bf-b4f3c69b1700" />
 
 ## Layer 3 (Numbers, Symbols)
-![Screenshot From 2025-02-28 20-50-29](https://github.com/user-attachments/assets/242afa61-3c80-4019-a21f-da34e7019428)
+<img width="632" height="285" alt="layer3" src="https://github.com/user-attachments/assets/97839dfd-8d48-448d-934c-94235a13054a" />
